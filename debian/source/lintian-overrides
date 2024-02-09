@@ -1,0 +1,2 @@
+packer-plugin-docker source: file-without-copyright-information
+packer-plugin-docker source: no-debian-changes
