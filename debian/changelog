@@ -1,0 +1,5 @@
+packer-plugin-docker (100:1.0.8-1) UNRELEASED; urgency=medium
+
+  * https://github.com/hashicorp/packer-plugin-docker/releases/tag/v1.0.8
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 18 Jan 2024 12:18:08 +0800

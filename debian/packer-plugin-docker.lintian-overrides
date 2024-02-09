@@ -1,0 +1,6 @@
+packer-plugin-docker: copyright-without-copyright-notice
+packer-plugin-docker: initial-upload-closes-no-bugs
+packer-plugin-docker: no-manual-page
+packer-plugin-docker: shared-library-lacks-prerequisites
+packer-plugin-docker: statically-linked-binary
+packer-plugin-docker: zero-byte-file-in-doc-directory
